@@ -1,18 +1,18 @@
 # Mistic Mart Application
-it is also a java based desktop application in this application I have followed a patter of MVC 		
+it is also a java based desktop application in this application I have followed a pattern of MVC 		
 
-There is also 2 main module in this project :-
+There is also 2 main module in this project:-
 1. Admin
 2. Receptionist  
 		
   
-So the main focus of this application is to provide a SAAS based product for a general store that will provide a flexible billing services to user and transform the whole process to digitally.  		So now I am defining a main modularity of Admin - 	
+So the main focus of this application is to provide a SAAS-based product for a general store that will provide flexible billing services to users and transform the whole process digitally.  		So now I am defining main modularity of Admin - 	
 
 1. Manage receptionist
 2. Manage products
 3. View all financial data
 
-		#Manage receptionist -
+   		1. Manage receptionist -
 		—> Add receptionist
 		—> Remove receptionist
 		—> Update receptionist
@@ -25,13 +25,15 @@ So the main focus of this application is to provide a SAAS based product for a g
 		—> View All products 
 
 		3. View all financial data-
-		—> view total collection
-		—> view total collection by a receptionist  —> cancel or update wrong billing 
+		—> View the total collection
+		—> View the total collection by a receptionist  —> Cancel or update wrong billing 
 		 		
-Now I am defining a main modularity of Receptionist - 	
+Now I am defining the main modularity of Receptionist - 	
 1. Billing
-2. View all invoice by date
+2. View all invoices by date
 
-Main Feature - Bar Code Generator for products.
-Technology - Java SE , SQL 		Tools used - Netbeans 8.2 , SQL Developer , Oracle Cloud Infrastructure 
-Topics - Java SE GUI ( AWT ) , SQL , Java Collection , Multithreading
+
+-> Main Feature - Bar Code Generator for products.
+-> Technology - Java SE, SQL .
+-> Tools used - Netbeans 8.2, SQL Developer, Oracle Cloud Infrastructure.
+-> Topics - Java SE GUI ( AWT ), SQL, Java Collection, Multithreading.
