@@ -1,4 +1,4 @@
-# Mistic Mart Application
+# E Mart Application
 it is also a java based desktop application in this application I have followed a pattern of MVC 		
 
 There is also 2 main module in this project:-
